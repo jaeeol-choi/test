@@ -31,7 +31,7 @@ public class MainActivity extends Activity
                     {
                         Toast.makeText(MainActivity.this, "핸들러수업", Toast.LENGTH_SHORT).show();
                     }
-                },3000);
+                },2000);
             }
         });
 
